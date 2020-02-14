@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listado>
+ <alumno id="1">
+ <dni>74857485F</dni>
+ <nombre>Mateo</nombre>
+ <apellido>Ros</apellido>
+ <email>mateo.ros@gmail.com</email>
+ <telefono>654987656</telefono>
+ <direccion/>
+ <fecha_nacimiento/>
+ </alumno>
+ 
+ <alumno id="2">
+ <dni>12457845L</dni>
+ <nombre>Marta</nombre>
+ <apellido>Sanz</apellido>
+ <email>m.sanz@gmail.com</email>
+ <telefono/>
+ <direccion/>
+ <fecha_nacimiento/>
+ </alumno>
+ 
+
+</listado>
